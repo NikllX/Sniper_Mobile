@@ -1,6 +1,7 @@
 # Sniper_Mobile
 Мобильная игра на Unity, где игрок управляет снайпером с помощью левого стика, а правым стиком поворачивает снйапера  и стреляет.
 Геймплей
+
 ![](https://github.com/NikllX/Sniper_Mobile/blob/main/gameplay_sniper.gif)
 
 ![Image alt](https://github.com/NikllX/Sniper_Mobile/blob/main/s1.png)
